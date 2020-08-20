@@ -1,0 +1,24 @@
+{
+  "name": "git_disc",
+  "version": "1.0.0",
+  "description": "bot for documenting",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RogerFerraro256/github_bot.git"
+  },
+  "keywords": [
+    "bot",
+    "git",
+    "discord"
+  ],
+  "author": "Roger",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RogerFerraro256/github_bot/issues"
+  },
+  "homepage": "https://github.com/RogerFerraro256/github_bot#readme"
+}
